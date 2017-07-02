@@ -1,6 +1,6 @@
-# Quasar App
+# Phipsis example app
 
-> A Quasar project
+> tiny example to learn basics
 
 ## Build Setup
 
@@ -8,12 +8,8 @@
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:8080
-$ quasar dev
+# run tests (not complete)
+npm run test
 
-# build for production with minification
-$ quasar build
-
-# lint code
-$ quasar lint
-```
+# serve at localhost:8080
+$ quasar dev mat
