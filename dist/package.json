@@ -1,0 +1,10 @@
+{
+ "name": "phipsi-example-app",
+ "version": "0.0.1",
+ "description": "learning stuff about js",
+ "author": "yours truly",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
